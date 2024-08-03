@@ -22,18 +22,18 @@ pip install pandas matplotlib scipy numpy seaborn
 
 
 
-Analysis
+### Analysis  
 The analysis is carried out using the following Python libraries:  
-Pandas: For data manipulation and analysis.  
-Matplotlib: For creating static, animated, and interactive visualizations.  
-Scipy: For scientific and technical computing.  
-Numpy: For numerical operations.  
-Seaborn: For statistical data visualization.  
+-Pandas: For data manipulation and analysis.  
+-Matplotlib: For creating static, animated, and interactive visualizations.  
+-Scipy: For scientific and technical computing.  
+-Numpy: For numerical operations.  
+-Seaborn: For statistical data visualization.  
 
 
-Steps:
-Data Cleaning: Handling missing values, duplicates, and incorrect data entries.  
-Exploratory Data Analysis (EDA): Understanding the data distribution and relationships between variables.  
-Data Visualization: Creating graphs and plots to visualize the data.  
-Statistical Analysis: Applying statistical methods to analyze the data and derive insights.  
+### Steps:  
+-Data Cleaning: Handling missing values, duplicates, and incorrect data entries.  
+-Exploratory Data Analysis (EDA): Understanding the data distribution and relationships between variables.  
+-Data Visualization: Creating graphs and plots to visualize the data.  
+-Statistical Analysis: Applying statistical methods to analyze the data and derive insights.  
 
