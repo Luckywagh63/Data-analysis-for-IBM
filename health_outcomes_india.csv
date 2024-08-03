@@ -1,0 +1,12 @@
+village,time_period,intervention,waterborne_disease_cases,economic_output,school_attendance
+Yamunanagar,2023-Q4,pre,150,2000,85
+Yamunanagar,2024-Q2,post,100,2100,88
+Jind,2024-Q1,pre,120,1800,82
+Jind,2024-Q2,post,80,1900,84
+Visakhapatnam,2024-Q1,pre,90,1700,80
+Visakhapatnam,2022-Q5,post,100,1800,82
+Cuddapah,2024-Q1,pre,160,2100,75
+Cuddapah,2024-Q2,post,110,2200,78
+Jhajjar,2023-Q4,pre,80,1600,85
+Jhajjar,2024-Q2,post,60,1700,87
+
